@@ -63,7 +63,7 @@ Answer + Source References
 
 ## Project Structure
 ```
-codebase-qq/
+codebase-qa/
 ├── app.py              # Streamlit UI
 ├── indexer.py          # File ingestion, chunking, embedding, Endee upsert
 ├── retriever.py        # Endee query, prompt building, LLM call
