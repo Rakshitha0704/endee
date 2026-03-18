@@ -85,7 +85,7 @@ codebase-qa/
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/YOUR-USERNAME/codebase-qa
+git clone https://github.com/Rakshitha0704/codebase-qa
 cd codebase-qa
 ```
 
