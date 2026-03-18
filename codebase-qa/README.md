@@ -132,4 +132,4 @@ streamlit run app.py
 
 ## Endee Repository
 - Forked from: https://github.com/endee-io/endee
-- My fork: https://github.com/YOUR-USERNAME/endee
+- My fork: https://github.com/Rakshitha0704/endee
