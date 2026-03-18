@@ -27,6 +27,9 @@ Endee is the core vector database powering this project. Here's exactly where it
 
 ---
 
+## Demo Video
+https://www.loom.com/share/ac9dbcb94f624a4dad06c4b19fcdca14
+
 ## System Design
 ```
 User Question
